@@ -9,6 +9,9 @@ This repository contains the code implementation of SILD as described in the pap
 
 ## Introduction
 
+<p align="center"><img src="./paper/framework.png" width=85% height=85%></p>
+<p align="center"><em>Figure 1.</em> The framework of SILD.</p>
+
 Dynamic graph neural networks (DyGNNs) currently struggle with handling distribution shifts that are inherent in dynamic graphs.
 Existing work on DyGNNs with out-of-distribution settings only focuses on the time domain, failing to handle cases involving distribution shifts in the spectral domain.
 
@@ -19,8 +22,7 @@ To this end, we propose Spectral Invariant Learning for Dynamic Graphs under Dis
 
 The framework is shown in Figure 1.
 
-<p align="center"><img src="./paper/framework.png" width=85% height=85%></p>
-<p align="center"><em>Figure 1.</em> The framework of SILD.</p>
+
 
 ## Installation
 We have tested our codes with the following requirements:  
