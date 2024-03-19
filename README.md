@@ -66,6 +66,7 @@ Install this repo as a library:
 pip install -e .
 ```
 
+The datasets can be downloaded from [google drive](https://drive.google.com/file/d/1GMuWLJUg5n-lYO7gH0RXn7Rr3b4WG18Z/view?usp=sharing).
 ## File Organization & Datasets
 
 The files in this repo are organized as follows:
